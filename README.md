@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanmaurya9554" target="blank"><img src="https://img.shields.io/twitter/follow/amanmaurya9554?logo=twitter&style=for-the-badge" alt="amanmaurya9554" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Web Development, Java**
 
