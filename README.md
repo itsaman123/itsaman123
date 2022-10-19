@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaman123&show_icons=true&locale=en" alt="itsaman123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaman123&" alt="itsaman123" /></p>
+
+<h2>HactoberFest 2022 Batches</h2>
+
+[![@itsaman123's Holopin board](https://holopin.me/itsaman123)](https://holopin.io/@itsaman123)
