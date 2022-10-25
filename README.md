@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Maurya</h1>
 <h3 align="center">Front-end developer || Java Programmer</h3>
 
-<h2>HactoberFest 2022 Batches</h2>
-
-[![@itsaman123's Holopin board](https://holopin.me/itsaman123)](https://holopin.io/@itsaman123)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaman123&label=Profile%20views&color=0e75b6&style=flat" alt="itsaman123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amanmaurya9554" target="blank"><img src="https://img.shields.io/twitter/follow/amanmaurya9554?logo=twitter&style=for-the-badge" alt="amanmaurya9554" /></a> </p>
